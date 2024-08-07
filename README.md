@@ -1,10 +1,10 @@
-## Bem vindo ao meu perfil 🇧🇷
+## bem vindo ao meu perfil 🇧🇷
 
-Meu nome é Alison Santos
+meu nome é alison santos
 
-- Estou estudando na [Alura] (https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo essa área para compartilhar e organizar os meus projetos desenvolvidos 
+- estou estudando na [Alura] (https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo essa área para compartilhar e organizar os meus projetos desenvolvidos 
 
 
 
