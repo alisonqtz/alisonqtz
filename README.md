@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 🇧🇷
 
-Meu nome é Alison Ataide
+Meu nome é Alison Santos
 
 - Estou estudando na [Alura] (https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
