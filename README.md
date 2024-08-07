@@ -3,7 +3,7 @@
 meu nome é alison santos
 
 - estou estudando na [Alura] (https://www.alura.com.br)
-- estou me desenvolvendo na linguagem JavaScript
+- estou me desenvolvendo na linguagem javascript
 - utilizo essa área para compartilhar e organizar os meus projetos desenvolvidos 
 
 
