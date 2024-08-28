@@ -2,7 +2,7 @@
 
 meu nome é alison santos
 
-- estou estudando na [alura] (https://cursos.alura.com.br/dashboard).
+- estou estudando na [alura] (https://cursos.alura.com.br/dashboard)
 - estou me desenvolvendo na linguagem javascript
 - utilizo essa área para compartilhar e organizar os meus projetos desenvolvidos 
 
